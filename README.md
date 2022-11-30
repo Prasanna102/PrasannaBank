@@ -5,7 +5,7 @@
 
 #I have desigend a website named bank cards.Here is my project demo link:https://gentle-river-0cb780510.2.azurestaticapps.net
 
-#Here is my Github Repositary link:
+#Here is my Github Repositary link:https://github.com/Prasanna102/PrasannaBank.git
 
 #Here is my Azure health Bot named as BankBot link:https://prasanna102.github.io/Bank/BankBot.html
 
