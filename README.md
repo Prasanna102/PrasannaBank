@@ -3,7 +3,7 @@
 
 ### This web based Bank application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
-#I have desigend a website named bank cards.Here is my project demo link:
+#I have desigend a website named bank cards.Here is my project demo link:https://gentle-river-0cb780510.2.azurestaticapps.net
 
 #Here is my Github Repositary link:
 
